@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## This tutorial will teach you how to classify a Pizza.
 
 You can use the [editor on GitHub](https://github.com/JoshGamerz/bonelesspizza/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
