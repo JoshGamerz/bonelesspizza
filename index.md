@@ -1,35 +1,17 @@
 ## This tutorial will teach you how to classify a Pizza.
 
-#### Identifying a pizza.
+#### % 5 steps to identify a pizza.
 
-### Markdown
+Steps:
+1. Hold a slice of pizza gently in your hand. 
+2. Make sure not to squeeze the pizza of pinch it. Doing it will hurt it.
+3. Now gently shake the pizza left to right
+4. If the pizza wiggles, its a boneless pizza
+5. If the pizza is stiff and doest not wiggle its a pizza with bone.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you followed the above steps correctly, congratulations you have successfully classfied a pizza.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JoshGamerz/bonelesspizza/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have anymore questions or doubts please dm BonelessPizza#9575 on discord.
