@@ -1,6 +1,6 @@
 ## This tutorial will teach you how to classify a Pizza.
 
-#### % 5 steps to identify a pizza.
+#### 5 steps to identify a pizza.
 
 Steps:
 1. Hold a slice of pizza gently in your hand. 
